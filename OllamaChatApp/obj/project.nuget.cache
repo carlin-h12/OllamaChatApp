@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KYRCPfgcr5o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Camila\\OllamaChatApp\\OllamaChatApp\\OllamaChatApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Camila\\.nuget\\packages\\system.net.http.json\\9.0.5\\system.net.http.json.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

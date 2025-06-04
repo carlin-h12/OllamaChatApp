@@ -1,0 +1,14 @@
+C:\Users\Camila\OllamaChatApp\OllamaChatApp\bin\Debug\net9.0-windows\OllamaChatApp.exe
+C:\Users\Camila\OllamaChatApp\OllamaChatApp\bin\Debug\net9.0-windows\OllamaChatApp.deps.json
+C:\Users\Camila\OllamaChatApp\OllamaChatApp\bin\Debug\net9.0-windows\OllamaChatApp.runtimeconfig.json
+C:\Users\Camila\OllamaChatApp\OllamaChatApp\bin\Debug\net9.0-windows\OllamaChatApp.dll
+C:\Users\Camila\OllamaChatApp\OllamaChatApp\bin\Debug\net9.0-windows\OllamaChatApp.pdb
+C:\Users\Camila\OllamaChatApp\OllamaChatApp\obj\Debug\net9.0-windows\OllamaChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila\OllamaChatApp\OllamaChatApp\obj\Debug\net9.0-windows\OllamaChatApp.AssemblyInfoInputs.cache
+C:\Users\Camila\OllamaChatApp\OllamaChatApp\obj\Debug\net9.0-windows\OllamaChatApp.AssemblyInfo.cs
+C:\Users\Camila\OllamaChatApp\OllamaChatApp\obj\Debug\net9.0-windows\OllamaChatApp.csproj.CoreCompileInputs.cache
+C:\Users\Camila\OllamaChatApp\OllamaChatApp\obj\Debug\net9.0-windows\OllamaChatApp.dll
+C:\Users\Camila\OllamaChatApp\OllamaChatApp\obj\Debug\net9.0-windows\refint\OllamaChatApp.dll
+C:\Users\Camila\OllamaChatApp\OllamaChatApp\obj\Debug\net9.0-windows\OllamaChatApp.pdb
+C:\Users\Camila\OllamaChatApp\OllamaChatApp\obj\Debug\net9.0-windows\OllamaChatApp.genruntimeconfig.cache
+C:\Users\Camila\OllamaChatApp\OllamaChatApp\obj\Debug\net9.0-windows\ref\OllamaChatApp.dll
